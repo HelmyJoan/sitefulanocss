@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    border-bottom: 2px solid black;
+}
+p, ul {
+    font-size: 16px;
+    color: #333;
+}
+img {
+    border-radius: 50%;
+}
